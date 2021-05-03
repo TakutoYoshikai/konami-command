@@ -1,5 +1,5 @@
 # konami-command
-This is konami command callback register. konami command is "↑↑↓↓←→←→ba"
+This is a bower package to register callback of konami command. konami command is "↑↑↓↓←→←→ba"
 
 ### Usage
 **install**
