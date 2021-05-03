@@ -1,0 +1,17 @@
+{
+  "name": "konami-command",
+  "main": "index.js",
+  "homepage": "https://github.com/TakutoYoshikai/konami-command",
+  "authors": [
+    "lucky <takuto.yoshikai@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
