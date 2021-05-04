@@ -24,6 +24,7 @@ function setKonamiCommand(callback) {
     }
     if (currentIndex === konamiCommand.length) {
       callback();
+      currentIndex = 0;
     }
   });
 }
